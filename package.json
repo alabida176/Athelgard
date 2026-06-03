@@ -1,0 +1,27 @@
+{
+  "name": "aethelgard",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-static": "^2.0.3",
+    "@sveltejs/kit": "^2.0.0",
+    "@tailwindcss/forms": "^0.5.7",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "svelte": "^4.2.2",
+    "tailwindcss": "^3.3.6",
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "dexie": "^3.2.4",
+    "howler": "^2.2.4",
+    "immer": "^10.0.3",
+    "pixi.js": "^7.3.2",
+    "xstate": "^5.0.0"
+  }
+}
